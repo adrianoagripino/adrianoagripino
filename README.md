@@ -1,7 +1,5 @@
 ## Hi there!! ✌
-<img align='right' src="https://github.com/adrianoagripino/adrianoagripino/img/giphy.webp">
+![](https://media.giphy.com/media/3oKIPySTQDPdLxN4Dm/giphy.gif)
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adrianoagripino&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrianoagripino&layout=compact&langs_count=8&theme=algolia"/>
-</p>
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=adrianoagripino&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrianoagripino&layout=compact&langs_count=8&theme=algolia)

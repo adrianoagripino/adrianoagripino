@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm adrianobr
 
-<img align="right" height="150px" src="https://media.giphy.com/media/3oKIPySTQDPdLxN4Dm/giphy.gif" />
+<img align="right" height="50%" src="https://github.com/adrianoagripino/adrianoagripino/bg.gif" />
 
-- 👨🏽‍💻  I am currently working at [MC1 - Win The Market](https://mc1.com.br)
+- 👨🏽‍💻  I am currently working at [MC1 - Win The Market](https://mc1.com.br).
 - 🎓  I'm currently studying Systems Analysis and Development at the [UNIP - Universidade Paulista](https://www.unip.br).
 - 🌱  I am currently learning React Native by [Digital Innovation One](https://digitalinnovation.one/).
 - ⚡  Fun fact: It was already like this when I arrived.
@@ -17,8 +17,6 @@
 
 ---
 ## Languages and Tools
-
-<p align="center">
 
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />
@@ -46,5 +44,10 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=adrianoagripino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" align="left" style="width: 100%" />
 </td><td valign="top" width="50%">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrianoagripino&layout=compact&langs_count=8&theme=dracula" align="left" style="width: 100%" />
+
+  
 </td></tr></table>  
+
+![adrianobr web site](https://github-readme-stats.vercel.app/api/pin/?username=adrianoagripino&theme=dracula&repo=adrianobr)
+
 <br/>

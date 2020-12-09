@@ -29,7 +29,8 @@ Atualmente estou cursando o ultimo ano de Analise e Desenvolvimento de Sistemas 
   
 - 🔭 Atualmente trabalho na [MC1 - Win The Market](https://mc1.com.br)
 - 🌱 Atualmente estou aprendendo React Native
-- ⚡ Fato engraçado: Quando eu cheguei já estava assim 😬
+- ⚡ Fato engraçado: Já estava assim quando cheguei.
+
 <br />
   
 </td><td valign="top" width="100%">
@@ -39,7 +40,7 @@ Atualmente estou cursando o ultimo ano de Analise e Desenvolvimento de Sistemas 
 </td></tr></table>
 <br/>
 
-## Skills
+## Minhas Skills
 
 <div align="center">  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  

@@ -1,4 +1,5 @@
 ## Olá 👋, eu sou adrianobr!  
+
 <br />
 <a href="https://twitter.com/adrianobr__" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -17,7 +18,9 @@
 </a>  
 <br />
 <br />
+
 ### Prazer em vê-los aqui!  
+
 <br />
 <br />
 Atualmente estou cursando o ultimo ano de Analise e Desenvolvimento de Sistemas - UNIP
@@ -28,7 +31,9 @@ Durante anos participei ativamente na comunidade vBulletin no desenvolvimento de
 Trabalhei tabém como freelance por algum tempo com desenvolvimento Web (Front-End). Após um período de pausa comecei a desenvolver aplicações mobile (Android) por hobby.
 <br/>
 <br/>
+
 ## O que eu faço no momento
+
 <table><tr><td valign="top" width="50%">
 - 🔭 Atualmente trabalho na [MC1 - Win The Market](https://mc1.com.br)
 <br/>
@@ -36,13 +41,15 @@ Trabalhei tabém como freelance por algum tempo com desenvolvimento Web (Front-E
 <br />
 - ⚡ Fato engraçado: Quando eu cheguei já estava assim 😬😜
 <br />
-</td><td valign="top" width="50%">
+</td><td valign="top" width="100%">
 <div align="center">
-<img src="https://media.giphy.com/media/3oKIPySTQDPdLxN4Dm/giphy.gif" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/3oKIPySTQDPdLxN4Dm/giphy.gif" align="center" style="width: 70%" />
 </div>
 </td></tr></table>
 <br/>
+
 ## Skills
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
@@ -66,8 +73,10 @@ Trabalhei tabém como freelance por algum tempo com desenvolvimento Web (Front-E
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="25" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="25" />  
 </div>  
-<br/>  
+<br />
+
 ## Github Stats  
+
 <table><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=adrianoagripino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" align="left" style="width: 100%" />
 </td><td valign="top" width="50%">

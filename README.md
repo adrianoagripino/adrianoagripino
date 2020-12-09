@@ -17,20 +17,12 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 <br />
-<br />
 
 ### Prazer em vê-los aqui!  
 
 <br />
-<br />
 Atualmente estou cursando o ultimo ano de Analise e Desenvolvimento de Sistemas - UNIP
 <br />
-<br />
-Durante anos participei ativamente na comunidade vBulletin no desenvolvimento de Plugins, Mods, Templates.
-<br />
-Trabalhei tabém como freelance por algum tempo com desenvolvimento Web (Front-End). Após um período de pausa comecei a desenvolver aplicações mobile (Android) por hobby.
-<br/>
-<br/>
 
 ## O que eu faço no momento
 
@@ -41,6 +33,7 @@ Trabalhei tabém como freelance por algum tempo com desenvolvimento Web (Front-E
 <br />
 - ⚡ Fato engraçado: Quando eu cheguei já estava assim 😬😜
 <br />
+  
 </td><td valign="top" width="100%">
 <div align="center">
 <img src="https://media.giphy.com/media/3oKIPySTQDPdLxN4Dm/giphy.gif" align="center" style="width: 70%" />

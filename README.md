@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm adrianobr
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3oKIPySTQDPdLxN4Dm/giphy.gif" />
+<img align="right" height="150px" src="https://media.giphy.com/media/3oKIPySTQDPdLxN4Dm/giphy.gif" />
 
 - 👨🏽‍💻  I am currently working at [MC1 - Win The Market](https://mc1.com.br)
 - 🎓  I'm currently studying Systems Analysis and Development at the [UNIP - Universidade Paulista](https://www.unip.br).

@@ -1,48 +1,25 @@
-## Olá 👋, eu sou adrianobr!  
+### Hi there 👋, I'm adrianobr
 
-<br />
-<a href="https://twitter.com/adrianobr__" target="_blank">
-  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/adrianobr" target="_blank">
-  <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/adrianoagripino" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/adrianoagripino" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/adrianobr" target="_blank">
-  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-<br />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3oKIPySTQDPdLxN4Dm/giphy.gif" />
 
-### Prazer em vê-los aqui!
+- 👨🏽‍💻  I am currently working at [MC1 - Win The Market](https://mc1.com.br)
+- 🎓  I'm currently studying Systems Analysis and Development at the [UNIP - Universidade Paulista](https://www.unip.br).
+- 🌱  I am currently learning React Native by [Digital Innovation One](https://digitalinnovation.one/).
+- ⚡  Fun fact: It was already like this when I arrived.
 
+### Contact with me 📝
 
-Atualmente estou cursando o ultimo ano de Analise e Desenvolvimento de Sistemas - [UNIP - Universidade Paulista](https://www.unip.br)
+![GITHUB](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)
+![DEV](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)
+![LINKEDIN](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
+![TWITTER](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)
+![INSTAGRAM](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)
 
+---
+## Languages and Tools
 
-<table><tr><td valign="top" width="50%">
-<br />
-  
-- 🔭 Atualmente trabalho na [MC1 - Win The Market](https://mc1.com.br)
-- 🌱 Atualmente estou aprendendo React Native
-- ⚡ Fato engraçado: Já estava assim quando cheguei.
+<p align="center">
 
-<br />
-  
-</td><td valign="top" width="100%">
-  <div align="center">
-    <img src="https://media.giphy.com/media/3oKIPySTQDPdLxN4Dm/giphy.gif" align="center" style="width: 70%" />
-  </div>
-</td></tr></table>
-<br/>
-
-## Minhas Skills
-
-<div align="center">  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" />

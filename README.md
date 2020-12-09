@@ -19,12 +19,9 @@
 <br />
 
 ### Prazer em vê-los aqui!  
-
 <br />
-Atualmente estou cursando o ultimo ano de Analise e Desenvolvimento de Sistemas - UNIP
+Atualmente estou cursando o ultimo ano de Analise e Desenvolvimento de Sistemas - [UNIP](https://www.unip.br)
 <br />
-
-## O que eu faço no momento
 
 <table><tr><td valign="top" width="50%">
 - 🔭 Atualmente trabalho na [MC1 - Win The Market](https://mc1.com.br)

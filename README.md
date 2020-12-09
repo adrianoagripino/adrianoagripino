@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm adrianobr
 
-<img align="right" height="50%" src="https://github.com/adrianoagripino/adrianoagripino/bg.gif" />
+<img align="right" height="50%" src="https://github.com/adrianoagripino/adrianoagripino/blob/master/bg.gif" />
 
 - 👨🏽‍💻  I am currently working at [MC1 - Win The Market](https://mc1.com.br).
 - 🎓  I'm currently studying Systems Analysis and Development at the [UNIP - Universidade Paulista](https://www.unip.br).
@@ -35,7 +35,7 @@
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="40" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="40" />
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="40" />
-</div>  
+ 
 <br />
 
 ## Github Stats  

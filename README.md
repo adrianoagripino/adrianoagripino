@@ -18,20 +18,16 @@
 </a>  
 <br />
 
-### Prazer em vê-los aqui!  
-<br />
+### Prazer em vê-los aqui!
+
 
 Atualmente estou cursando o ultimo ano de Analise e Desenvolvimento de Sistemas - [UNIP](https://www.unip.br)
-<br />
+
 
 <table><tr><td valign="top" width="50%">
   
 - 🔭 Atualmente trabalho na [MC1 - Win The Market](https://mc1.com.br)
-<br/>
-
 - 🌱 Atualmente estou aprendendo React Native
-<br />
-
 - ⚡ Fato engraçado: Quando eu cheguei já estava assim 😬😜
 <br />
   

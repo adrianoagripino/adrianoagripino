@@ -28,7 +28,7 @@ Atualmente estou cursando o ultimo ano de Analise e Desenvolvimento de Sistemas 
   
 - 🔭 Atualmente trabalho na [MC1 - Win The Market](https://mc1.com.br)
 - 🌱 Atualmente estou aprendendo React Native
-- ⚡ Fato engraçado: Quando eu cheguei já estava assim 😬😜
+- ⚡ Fato engraçado: Quando eu cheguei já estava assim 😬
 <br />
   
 </td><td valign="top" width="100%">

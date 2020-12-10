@@ -1,15 +1,13 @@
-# Hi there 👋, I'm adrianobr
+# Hi there 👋, I'm adrianobr  
 
-<img align="right" height="100px" src="https://github.com/adrianoagripino/adrianoagripino/blob/master/bg.gif" />
+<img align="right" height="150px" src="https://github.com/adrianoagripino/adrianoagripino/blob/master/bg.gif" />  
 
 - 👨🏽‍💻  I am currently working at [MC1 - Win The Market](https://mc1.com.br).
 - 🎓  I'm currently studying Systems Analysis and Development at the [UNIP - Universidade Paulista](https://www.unip.br).
 - 🌱  I am currently learning React Native by [Digital Innovation One](https://digitalinnovation.one/).
-- ⚡  Fun fact: It was already like this when I arrived.
+- ⚡  Fun fact: It was already like this when I arrived.  
 
-### Contact with me 📝
-
-<br/>
+## Contact with me 📝  
 
 ![GITHUB](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)
 ![DEV](https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white)
@@ -19,18 +17,16 @@
 
 ---
 
-## Languages and Tools
+## Languages and Tools  
 
-## Github Stats
+---
 
-<table><tr><td valign="top" width="50%">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=adrianoagripino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" align="left" style="width: 100%" />
-</td><td valign="top" width="50%">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrianoagripino&layout=compact&langs_count=8&theme=dracula" align="left" style="width: 100%" />
+## Github Stats  
 
-  
-</td></tr></table>  
+![adrianobr Statiscs](https://github-readme-stats-eight-theta.vercel.app/api?username=adrianoagripino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+![adrianobr Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrianoagripino&layout=compact&langs_count=8&theme=dracula)
+
+## Recent Project  
 
 ![adrianobr web site](https://github-readme-stats.vercel.app/api/pin/?username=adrianoagripino&theme=dracula&repo=adrianobr)
-
-<br/>

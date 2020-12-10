@@ -23,10 +23,10 @@
 
 ## Github Stats  
 
-![adrianobr Statiscs](https://github-readme-stats-eight-theta.vercel.app/api?username=adrianoagripino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
-![adrianobr Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrianoagripino&layout=compact&langs_count=8&theme=dracula)
-
+<p align="center">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adrianoagripino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrianoagripino&layout=compact&langs_count=8&theme=dracula" />
+</p>
 ## Recent Project  
 
 ![adrianobr web site](https://github-readme-stats.vercel.app/api/pin/?username=adrianoagripino&theme=dracula&repo=adrianobr)

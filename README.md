@@ -1,10 +1,10 @@
 # Hi there 👋, I'm adrianobr  
 
-<img align="right" height="170px" src="https://github.com/adrianoagripino/adrianoagripino/blob/master/bg.gif" />  
+<img align="right" height="160px" src="https://github.com/adrianoagripino/adrianoagripino/blob/master/bg.gif" />  
 
-- 👨🏽‍💻  I am currently working at [MC1 - Win The Market](https://mc1.com.br).
-- 🎓  I'm currently studying Systems Analysis and Development at the [Universidade Paulista](https://www.unip.br).
-- 🌱  I am currently learning React Native at [Digital Innovation One](https://digitalinnovation.one/).
+- 👨🏽‍💻  I am currently working at [@MC1 - Win The Market](https://mc1.com.br).
+- 🎓  I'm currently studying Systems Analysis and Development at the ( Universidade Paulista )
+- 🌱  I am currently learning React Native at ( Digital Innovation One )
 - ⚡  Fun fact: It was already like this when I arrived.  
 
 ## Contact with me 📝  

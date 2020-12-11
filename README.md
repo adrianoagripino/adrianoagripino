@@ -3,7 +3,7 @@
 <img align="right" height="170px" src="https://github.com/adrianoagripino/adrianoagripino/blob/master/bg.gif" />  
 
 - 👨🏽‍💻  I am currently working at [MC1 - Win The Market](https://mc1.com.br).
-- 🎓  I'm currently studying Systems Analysis and Development at the [UNIP - Universidade Paulista](https://www.unip.br).
+- 🎓  I'm currently studying Systems Analysis and Development at the [Universidade Paulista](https://www.unip.br).
 - 🌱  I am currently learning React Native at [Digital Innovation One](https://digitalinnovation.one/).
 - ⚡  Fun fact: It was already like this when I arrived.  
 
@@ -14,10 +14,6 @@
 [![LINKEDIN](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianoagripino)
 [![TWITTER](https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adrianobr__)
 [![INSTAGRAM](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adrianobr)
-
----
-
-## Languages and Tools  
 
 ---
 

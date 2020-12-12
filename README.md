@@ -26,5 +26,5 @@
 
 ## Recent Project  
 
-![adrianobr web site](https://github-readme-stats.vercel.app/api/pin/?username=adrianoagripino&theme=dracula&repo=adrianobr)
-![adrianobr web site](https://github-readme-stats.vercel.app/api/pin/?username=adrianoagripino&theme=dracula&repo=crudapp)
+![adrianobr web site](https://github-readme-stats.vercel.app/api/pin/?username=adrianoagripino&theme=dracula&repo=adrianobr)(https://github.com/adrianoagripino/adrianobr)
+![adrianobr web site](https://github-readme-stats.vercel.app/api/pin/?username=adrianoagripino&theme=dracula&repo=crudapp)(https://github.com/adrianoagripino/crudapp)

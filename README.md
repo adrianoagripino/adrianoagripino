@@ -4,7 +4,7 @@
 
 - 👨🏽‍💻  I am currently working at [@MC1 - Win The Market](https://mc1.com.br).
 - 🎓  I'm currently studying Systems Analysis and Development at the **Universidade Paulista**
-- 🌱  I am currently learning React Native at **Digital Innovation One**
+- 🌱  I am currently learning Bootcamp - React Native Mobile Developer at **Digital Innovation One**
 - ⚡  Fun fact: It was already like this when I arrived.  
 
 ### Contact with me 📝  
@@ -23,5 +23,5 @@
 
 ### Recent Project  
 
-[![adrianobr web site](https://github-readme-stats.vercel.app/api/pin/?username=adrianoagripino&theme=dracula&repo=adrianobr)](https://github.com/adrianoagripino/adrianobr)
+[![adrianobr web site](https://github-readme-stats.vercel.app/api/pin/?username=adrianoagripino&theme=dracula&repo=appShortURL)](https://github.com/adrianoagripino/AppShortURL)
 [![adrianobr web site](https://github-readme-stats.vercel.app/api/pin/?username=adrianoagripino&theme=dracula&repo=crudapp)](https://github.com/adrianoagripino/crudapp)

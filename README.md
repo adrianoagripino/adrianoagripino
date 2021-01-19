@@ -4,7 +4,7 @@
 
 - 👨🏽‍💻  I am currently working at [@MC1 - Win The Market](https://mc1.com.br).
 - 🎓  I'm currently studying Systems Analysis and Development at the **Universidade Paulista**
-- 🌱  I am currently learning Bootcamp - React Native Mobile Developer at **Digital Innovation One**
+- 🌱  I am currently learningReact Native Mobile Developer
 - ⚡  Fun fact: It was already like this when I arrived.  
 
 ### Contact with me 📝  

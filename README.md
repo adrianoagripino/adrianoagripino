@@ -3,7 +3,7 @@
 <img align="right" height="160px" src="https://github.com/adrianoagripino/adrianoagripino/blob/master/bg.gif" />  
 
 - 👨🏽‍💻  Atualmente trabalho na [@MC1 - Win The Market](https://mc1.com.br).
-- 🎓  Recentemente me formei em Análise e Desenvolvimento de Sistemas na **Universidade Paulista**
+- 🎓  Formado em Análise e Desenvolvimento de Sistemas na **Universidade Paulista**
 - 🌱  Atualmente estou aprendendo Java e Kotlin
 - ⚡  Fato engraçado: Já estava assim quando cheguei.  
 

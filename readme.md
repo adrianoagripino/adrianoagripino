@@ -1,6 +1,6 @@
 ## Olá 👋, eu sou o adrianobr
 
-- 👨🏽‍💻  Atualmente trabalhando na [@MC1 - Win The Market](https://mc1.com.br).
+- 👨🏽‍💻  Trabalho na [@MC1 - Win The Market](https://mc1.com.br).
 - 🎓  Formado em Análise e Desenvolvimento de Sistemas na **Universidade Paulista**
 - 🌱  Atualmente estou aprendendo Java e Kotlin
 - ⚡  Fato engraçado: Já estava assim quando cheguei.  
@@ -19,8 +19,3 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adrianoagripino&layout=compact&langs_count=8&theme=dracula" />
 
 </p>
-
-### Projetos recentes
-
-[![adrianobr web site](https://github-readme-stats.vercel.app/api/pin/?username=adrianoagripino&theme=dracula&repo=appShortURL)](https://github.com/adrianoagripino/AppShortURL)
-[![adrianobr web site](https://github-readme-stats.vercel.app/api/pin/?username=adrianoagripino&theme=dracula&repo=crudapp)](https://github.com/adrianoagripino/crudapp)

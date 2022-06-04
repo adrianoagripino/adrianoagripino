@@ -1,4 +1,4 @@
-## Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou o adrianobr
+## Olá
 
 - 👨🏽‍💻  Trabalho na [@MC1 - Win The Market](https://mc1.com.br).
 - 🎓  Formado em Análise e Desenvolvimento de Sistemas na **Universidade Paulista**
